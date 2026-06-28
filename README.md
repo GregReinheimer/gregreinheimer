@@ -15,7 +15,7 @@ My journey in IT has led me to develop an interest for cybersecurity, which I'm 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Physical Network Connectivity         | <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a>|
-| Active Directory using Azure                  | System Administration Lab - Coming Soon|
+| Use SIEM on Active Directory Domain                  | Active Directory Lab - Coming Soon|
 
 
 ## Tools
