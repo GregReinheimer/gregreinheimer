@@ -9,13 +9,12 @@ I am a current college student in Information Technology with a profound interes
 
 My journey in IT has led me to develop an interest for cybersecurity, which I'm now focusing on. My goal is to become a SOC analyst. 
 
-## Projects
+## Skills
 
-### Network and Connectivity
-- <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a>
-
-### Digital Forensics
-- <a href="https://github.com/GregReinheimer/Gathering Forensic Evidence Using Windows Utilities and Windows Registry">Gathering Forensic Evidence Using Windows Utilities and Windows Registry</a>
+| Skill                                         |            Project         |
+|-----------------------------------------------|----------------------------|
+| Network Connectivity                          | <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a> |
+| Windows Utilities and Windows Registry         | <a href="https://github.com/GregReinheimer/Gathering Forensic Evidence Using Windows Utilities and Windows Registry">Gathering Forensic Evidence Using Windows Utilities and Windows Registry</a>|
 
 
 ## Tools
@@ -40,7 +39,7 @@ My journey in IT has led me to develop an interest for cybersecurity, which I'm 
 <img src="https://img.shields.io/badge/ITIL%204-6A1B9A?style=for-the-badge&logoColor=white" />
 </div>
 
-## Skills
+## Projects
 - Network Connectivity
 - Navigating Windows Utilities and Registry
 
