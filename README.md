@@ -7,28 +7,15 @@ I am a current college student in Information Technology with a profound interes
 
 ## Objective
 
-My journey in IT has led me to develop an interest for cybersecurity, which I'm now focusing on. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop an interest for cybersecurity, which I'm now focusing on. My goal is to become a SOC analyst. 
 
-## Skills
+## Projects
 
-# Network and Connectivity
+### Network and Connectivity
 - <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a>
 
-# Digital Forensics
-- <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">?</a>
-
-
-  
-
-
-
-
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Physical Network Connectivity         | <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a>|
-| Use SIEM on Active Directory Domain                  | Active Directory Lab - Coming Soon|
+### Digital Forensics
+- <a href="https://github.com/GregReinheimer/Gathering Forensic Evidence Using Windows Utilities and Windows Registry">Gathering Forensic Evidence Using Windows Utilities and Windows Registry</a>
 
 
 ## Tools
@@ -49,9 +36,11 @@ My journey in IT has led me to develop an interest for cybersecurity, which I'm 
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-E31C25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/ITIL%204-6A1B9A?style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Troubleshooting Network Connectivity
+## Skills
+- Network Connectivity
+- Navigating Windows Utilities and Registry
 
