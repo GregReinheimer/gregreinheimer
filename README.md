@@ -7,7 +7,7 @@ I am a current college student in Information Technology with a profound interes
 
 ## Objective
 
-My journey in IT has led me to develop an interest for cybersecurity, which I'm now focusing on. My goal is to become a SOC analyst. 
+My journey in IT has led me to develop an interest for cybersecurity, which I'm now focusing on. My goal is to get my foot into the IT environment in a helpdesk/support analyst role with the desire to be a SOC analyst in the forseeable future. 
 
 ## Skills
 
