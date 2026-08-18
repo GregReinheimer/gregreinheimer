@@ -11,6 +11,19 @@ My journey in IT has led me to develop an interest for cybersecurity, which I'm 
 
 ## Skills
 
+# Network and Connectivity
+- <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a>
+
+# Digital Forensics
+- <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">?</a>
+
+
+  
+
+
+
+
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
