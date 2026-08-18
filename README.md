@@ -14,7 +14,7 @@ My journey in IT has led me to develop an interest for cybersecurity, which I'm 
 | Skill                                         |            Project         |
 |-----------------------------------------------|----------------------------|
 | Network Connectivity                          | <a href="https://github.com/GregReinheimer/Troubleshooting-Network-Communication">Troubleshooting Network Communication</a> |
-| Windows Utilities and Windows Registry         | <a href="https://github.com/GregReinheimer/Gathering Forensic Evidence Using Windows Utilities and Windows Registry">Gathering Forensic Evidence Using Windows Utilities and Windows Registry</a>|
+| Windows Utilities and Windows Registry         | <a href="https://github.com/GregReinheimer/IT-Digital-Forensics-Lab-Scenarios/Gathering Forensic Evidence Using Windows Utilities and Windows Registry">Gathering Forensic Evidence Using Windows Utilities and Windows Registry</a>|
 
 
 ## Tools
